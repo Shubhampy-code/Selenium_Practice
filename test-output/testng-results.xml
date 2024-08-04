@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-02T18:23:58 IST" name="Default suite" finished-at="2024-08-02T18:24:07 IST" duration-ms="9758">
+    <groups>
+    </groups>
+    <test started-at="2024-08-02T18:23:58 IST" name="Default test" finished-at="2024-08-02T18:24:07 IST" duration-ms="9758">
+      <class name="Basics.AssertDemo1">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Basics.AssertDemo1@28261e8e]" started-at="2024-08-02T18:23:58 IST" name="setup" finished-at="2024-08-02T18:24:03 IST" duration-ms="5094" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test1()[pri:0, instance:Basics.AssertDemo1@28261e8e]" started-at="2024-08-02T18:24:03 IST" name="test1" finished-at="2024-08-02T18:24:07 IST" duration-ms="4522" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Basics.AssertDemo1@28261e8e]" started-at="2024-08-02T18:24:07 IST" name="teardown" finished-at="2024-08-02T18:24:07 IST" duration-ms="78" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Basics.AssertDemo1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
